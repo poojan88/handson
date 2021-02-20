@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-02-15T00:24:30Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "5V AC-DC Regulator"
+        },
+        "Owner": "Pooja Nath <pooja.nath88@gmail.com>",
+        "Size": {
+            "X": 45.9488,
+            "Y": 29.2508
+        }
+    }
+}

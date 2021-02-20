@@ -1,0 +1,9 @@
+Partlist exported from D:/C-DAC Chariot/Hands on/CDAC Assignments/Designs/Hands on/5V AC-DC Regulator.sch at 15-02-2021 05:54
+
+Qty Value  Device          Package      Parts               Description                MF MPN OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+2          M02             02P          5V-DC-OUTPUT, INPUT AMP QUICK CONNECTOR               unknown    unknown   33                    
+1   0.1 uF C-EU025-025X050 C025-025X050 C3                  CAPACITOR, European symbol                             65         C          
+1   0.1uF  C-EU025-025X050 C025-025X050 C2                  CAPACITOR, European symbol                             65         C          
+1   1000uF C-US025-024X044 C025-024X044 C1                  CAPACITOR, American symbol                             17         C          
+4   1N4007 1N4004          DO41-10      D1, D2, D3, D4      DIODE                                                  82                    
+1   LM7805 786TV           TO220V       IC1                 Positive VOLTAGE REGULATOR                             0                     
